@@ -1,4 +1,3 @@
-init.py
 course_id = 'Monografia'
 github_repo = 'manuelavrestrepo/%s'%course_id
 zip_file_url="https://github.com/%s/archive/master.zip"%github_repo
